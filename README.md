@@ -25,3 +25,5 @@ I found [Anime Dataset](https://www.kaggle.com/vishalmane109/anime-recommendatio
 13. Source: Dtype is object.
 14. Aired: Dtype is object.
 14. Link: Dtype is object.
+
+## Tools:
