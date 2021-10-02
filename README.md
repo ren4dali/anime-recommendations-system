@@ -32,4 +32,3 @@ I will be using k means clustering.
 ## Tools:
 - Pythone packages for Data science models like numpy, pandas, matplotlib and seaborn.
 
-## [Minimum Viable Product (MVP):]()
