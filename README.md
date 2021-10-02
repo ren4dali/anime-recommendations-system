@@ -8,7 +8,7 @@ Helps the user find upcoming and older anime that doesn't receive a lot of atten
 - The genre the user prefers.
 - The Anime the user has previously watched based on its genre.
 ## Data Description:
-I found [Anime Dataset](https://www.kaggle.com/vishalmane109/anime-recommendations-database) in kagel,contains a total of 16737 unique Animes and 15 features.
+I found the [Anime Dataset](https://www.kaggle.com/vishalmane109/anime-recommendations-database) in kagel,contains a total of 16737 unique Animes and 15 features.
 ### Dataset Content:
 1. Anime_id: anime Id (as per myanimelist.net), Dtype is int64.
 2. Title: name of anime, Dtype is object.
