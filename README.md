@@ -26,4 +26,10 @@ I found [Anime Dataset](https://www.kaggle.com/vishalmane109/anime-recommendatio
 14. Aired: Dtype is object.
 14. Link: Dtype is object.
 
+## Algogorithms:
+I will be using k means clustering.
+
 ## Tools:
+- Pythone packages for Data science models like numpy, pandas, matplotlib and seaborn.
+
+## [Minimum Viable Product (MVP):]()
